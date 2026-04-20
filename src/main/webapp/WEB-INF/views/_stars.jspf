@@ -1,0 +1,8 @@
+<!-- Starfield background (shared include) -->
+<div id="space-bg"><canvas id="starsCanvas"></canvas></div>
+<script src="${pageContext.request.contextPath}/assets/js/space-bg.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    if (window.SpaceBG) { window.SpaceBG.init('#starsCanvas'); }
+  });
+</script>

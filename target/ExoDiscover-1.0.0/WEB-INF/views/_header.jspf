@@ -1,0 +1,14 @@
+<%@ page contentType="text/html;charset=UTF-8" %>
+<% String role = (String) session.getAttribute("role"); %>
+
+<nav class="navbar">
+  <a href="${pageContext.request.contextPath}/dashboard"> Home</a>
+  <a href="${pageContext.request.contextPath}/search"> Search</a>
+
+  
+<!--
+  <form method="post" action="${pageContext.request.contextPath}/logout">
+      <button class="btn">Logout</button>
+  </form>-->
+</nav>
+<hr>
