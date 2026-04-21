@@ -8,6 +8,7 @@ A simple web-based project to explore exoplanets and related research papers. Bu
 Tech Used:
 
 - Java
+- JavaScript
 - MySQL
 - Apache Tomcat
 
