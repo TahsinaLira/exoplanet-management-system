@@ -9,6 +9,7 @@ Tech Used:
 
 - Java
 - JavaScript
+- CSS
 - MySQL
 - Apache Tomcat
 
