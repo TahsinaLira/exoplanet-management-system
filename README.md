@@ -2,7 +2,7 @@
 
 ExoDiscover
 
-A simple web-based project to explore exoplanets and related research papers. Built using Java.
+A simple web-based project to explore exoplanets and related research papers, Where users can create their account and know about different exoplanets, and also can read exoplanet related research paper. Whereas, the admin can update, delete information about the exoplanets and upload the research papers.
 
 
 Tech Used:
