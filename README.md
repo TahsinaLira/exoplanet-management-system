@@ -12,16 +12,9 @@ Tech Used:
 - CSS
 - MySQL
 - Apache Tomcat
+- Excel
+  
 
-How to Run--
-
- Clone the repo
-
- Import into Eclipse/IntelliJ
- 
- Set up MySQL database
-
- Run on Tomcat server
 
  <img width="1330" height="773" alt="Screenshot 2025-12-02 140152" src="https://github.com/user-attachments/assets/1a478303-3c6e-4a6e-bb81-c78666013b62" />
 
